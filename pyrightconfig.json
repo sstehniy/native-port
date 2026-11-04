@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/.*",
+    "build",
+    "third_party",
+    "recomp/deps",
+    "recomp/out"
+  ]
+}
